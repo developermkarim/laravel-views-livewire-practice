@@ -28,7 +28,7 @@
     "moment": "^2.29.1",
     "pikaday": "^1.8.2",
     "popper.js": "^1.16.1",
-    "tailwindcss": "^1.9.6",
+    "tailwindcss": "^2.2.5",
     "tailwindcss-plugins": "^0.3.0"
   }
 }
